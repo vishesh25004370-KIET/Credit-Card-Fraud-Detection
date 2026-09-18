@@ -1,0 +1,10 @@
+{
+  "roc_auc": 1.0,
+  "pr_auc": 1.0,
+  "precision_at_threshold": 1.0,
+  "recall_at_threshold": 0.9166666666666666,
+  "f1_at_threshold": 0.9565217391304348,
+  "threshold": 0.19833971193755698,
+  "n_test": 1000,
+  "n_fraud_test": 12
+}
